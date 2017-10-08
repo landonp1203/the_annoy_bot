@@ -1,0 +1,26 @@
+{
+  "name": "the_annoy_bot",
+  "version": "1.0.0",
+  "description": "A bot that annoys people when they tweet!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landonp1203/the_annoy_bot.git"
+  },
+  "author": "Landon Patmore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/landonp1203/the_annoy_bot/issues"
+  },
+  "homepage": "https://github.com/landonp1203/the_annoy_bot#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "node-fetch": "^1.7.3",
+    "path": "^0.12.7",
+    "twitter": "^1.7.1",
+    "unirest": "^0.5.1"
+  }
+}
